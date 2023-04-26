@@ -1,4 +1,12 @@
-> 1%
-last 2 versions
-not dead
-not ie 11
+#
+#超过1%用户的浏览器
+#> 1%
+#倒数两个版本
+#last 2 versions
+
+#not dead
+#not ie 11
+
+Android >= 4.0
+IOS >= 8
+
